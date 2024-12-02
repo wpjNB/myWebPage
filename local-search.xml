@@ -8,7 +8,7 @@
     <link href="/2024/12/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2024/12/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章</p><p>helloworld<br><img src="/.%5Ctest%5Ctest.jpg"></p>]]></content>
+    <content type="html"><![CDATA[<p>这是一篇测试文章</p><p>helloworld<br><img src="./测试文章/test.jpg" style="zoom:67%;" /></p>]]></content>
     
     
     <categories>
